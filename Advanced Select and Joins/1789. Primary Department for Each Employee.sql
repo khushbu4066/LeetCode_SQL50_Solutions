@@ -5,8 +5,8 @@ WHERE employee_id IN
     (
     SELECT employee_id
     FROM Employee
-    GROUP BY 1
+    GROUP BY employee_id
     HAVING COUNT(*) = 1
     )
     OR primary_flag = 'Y'
-ORDER BY 1
+ORDER BY employee_id
