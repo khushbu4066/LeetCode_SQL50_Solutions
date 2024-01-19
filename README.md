@@ -1,4 +1,4 @@
-# LeetCode-SQL-Solutions
+# Leetcode-SQL50-Interview-Questions
 
 ## Description 
 The SQL 50 on LeetCode provided an extensive collection of SQL problems covering a wide range of concepts and techniques.
