@@ -7,12 +7,12 @@ This challenge included easy, medium and hard level questions from various topic
 - Basic Joins
 - Basic Aggregate Functions
 - Sorting and grouping
-- Advanced Select and joins
 - Subqueries
-- Advanced String Functions / Regex / Clause
+- Advanced Select and joins
+- Advanced String Functions , Regex and Clause
 
 
-## Resources for SQL
+## SQL Resources
 Some of the resources I used in order to learn SQL are –
 - https://www.w3schools.com/sql/
 - https://www.tutorialspoint.com/sql/index.htm
