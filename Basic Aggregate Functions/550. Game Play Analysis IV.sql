@@ -15,3 +15,4 @@ WHERE
     GROUP BY
       A2.player_id
   );
+
