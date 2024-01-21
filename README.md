@@ -10,7 +10,7 @@ This challenge included easy, medium and hard level questions from various topic
 - Subqueries
 - Advanced Select and joins
 - Advanced String Functions , Regex and Clause
-- 
+  
 <img width="792" alt="SQL_Budge" src="https://github.com/khushbu4066/Leetcode-SQL50-Questions/assets/83541710/72e3ec56-61c4-4172-8367-7a8f20e843c9">
 
 
